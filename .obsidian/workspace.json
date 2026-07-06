@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/O que é morfogênese narrativa.md",
+                "file": "base/Escala das estruturas estruturantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é morfogênese narrativa"
+              "title": "Escala das estruturas estruturantes"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "8b520b86e6511b15",
   "lastOpenFiles": [
+    "base/Matriz cosmológica.md",
+    "base/O que é morfogênese narrativa.md",
     "rev-revisao-tematica-v1.md",
     "revisao-tematica-v1.md",
     "base/revisao-tematica-v1.md",
-    "base/Matriz cosmológica.md",
     "base/Matriz de potencias profundos.md",
     "Matriz de potencias profundos.md",
     "base/Escala das estruturas estruturantes.md",
@@ -199,7 +200,6 @@
     "Seguimento da seed temática.md",
     "Seguimento da seed temática",
     "base/Seed temática",
-    "base",
-    "base/O que é morfogênese narrativa.md"
+    "base"
   ]
 }
