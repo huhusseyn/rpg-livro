@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base/Escala das estruturas estruturantes.md",
+                "file": "lugares/Ruinas do Marco Antigo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escala das estruturas estruturantes"
+              "title": "Ruinas do Marco Antigo"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,18 +185,31 @@
   },
   "active": "8b520b86e6511b15",
   "lastOpenFiles": [
+    "lugares/Vale de Dunhollow.md",
+    "base/Escala das estruturas estruturantes.md",
+    "lugares/Fortificacao de Vigia Baixa.md",
+    "lugares/Ruinas do Marco Antigo.md",
+    "lugares/Mina da Colina Negra.md",
+    "npcs",
+    "npc",
+    "base/Matriz social de dunhollow.md",
+    "base/Seguimento da seed temática.md",
+    "base/Matriz de potencias profundos.md",
     "base/Matriz cosmológica.md",
     "base/O que é morfogênese narrativa.md",
+    "itens",
+    "lugares",
+    "base/Dna Causal.md",
+    "Nova pasta",
     "rev-revisao-tematica-v1.md",
+    "revisoes/revisao-tematica-v1.md",
+    "revisoes/rev-revisao-tematica-v1.md",
+    "revisoes",
     "revisao-tematica-v1.md",
     "base/revisao-tematica-v1.md",
-    "base/Matriz de potencias profundos.md",
     "Matriz de potencias profundos.md",
-    "base/Escala das estruturas estruturantes.md",
     "Escala das estruturas estruturantes.md",
-    "base/Matriz social de dunhollow.md",
     "Matriz social de dunhollow.md",
-    "base/Seguimento da seed temática.md",
     "Seguimento da seed temática.md",
     "Seguimento da seed temática",
     "base/Seed temática",

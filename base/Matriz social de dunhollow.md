@@ -1,237 +1,60 @@
-Agora estamos no ponto em que a maioria das campanhas falha.
+Agora estamos no ponto em que a maioria das campanhas falha. O mestre costuma criar o Mistério, depois as Pistas e a Revelação. A Morfogênese Narrativa exige um caminho diferente:
 
-O mestre cria:
+**Comunidade → Tensões → Pressões → Mistérios → Revelações**
 
-Mistério
-↓
-Pistas
-↓
-Revelação
+Ou seja: antes do segredo, precisamos criar o que será afetado por ele.
 
-Mas a Morfogênese Narrativa exige:
+# Dunhollow — Matriz Social Inicial
 
-Comunidade
-↓
-Tensões
-↓
-Pressões
-↓
-Mistérios
-↓
-Revelações
+## Estrutura Social
+A região não possui grandes cidades; sua estabilidade depende de poucas figuras centrais que funcionam como nós de uma rede. Nenhuma delas possui segredos ou papéis ocultos definidos ainda.
 
-Ou seja: antes do segredo, precisamos criar o que será afetado pelo segredo.
+### Nó 1 — Administração: Magistrada Elara Voss
+*   **Função:** Administrar disputas locais (impostos, conflitos civis, distribuição de recursos).
+*   **Desejo Aparente:** Manter a estabilidade.
+*   **Medo Aparente:** Perder o controle da situação.
+*   **Potenciais Não Colapsados:** sabe mais do que aparenta, sabe menos, está sendo manipulada ou está manipulando alguém.
 
-O próximo passo é construir a Matriz Social de Dunhollow.
+### Nó 2 — Segurança: Capitão Garrick Thorn
+*   **Função:** Comandante da pequena guarnição (estradas, patrulhas, proteção).
+*   **Desejo Aparente:** Garantir a segurança da região.
+*   **Medo Aparente:** Uma ameaça que não compreende.
+*   **Potenciais Não Colapsados:** competente, incompetente, honrado, corruptível ou desesperado.
 
-Dunhollow — Matriz Social Inicial
-Estrutura Social
+### Nó 3 — Espiritualidade: Irmã Maelin
+*   **Função:** Líder religiosa (funerais, bênçãos, festivais).
+*   **Desejo Aparente:** Preservar a fé da população.
+*   **Medo Aparente:** Que as pessoas percam a esperança.
+*   **Potenciais Não Colapsados:** possui conhecimento oculto, desconhece a verdade, recebeu visões ou interpreta sinais incorretamente.
 
-A região não possui grandes cidades.
+### Nó 4 — Economia: Torren Hale
+*   **Função:** Maior proprietário rural (armazenagem de grãos, comércio regional).
+*   **Desejo Aparente:** Proteger suas propriedades.
+*   **Medo Aparente:** Colapso econômico.
+*   **Potenciais Não Colapsados:** oportunista, altruísta, pragmático ou conspirador.
 
-Sua estabilidade depende de poucas figuras centrais.
+### Nó 5 — Conhecimento: O Eremita da Colina Negra
+*   **Status:** Pouco visto, vive isolado. A população possui opiniões contraditórias sobre ele.
+*   **Potenciais Não Colapsados:** sábio, louco, profeta, fugitivo ou irrelevante.
 
-Essas figuras funcionam como nós de uma rede.
+---
 
-Nenhuma delas possui segredos definidos.
+## Dinâmicas do Sistema
 
-Nenhuma delas possui papel oculto definido.
+### Dependências
+A estabilidade do vale depende da interação entre os eixos:
+`Elara (ADM) → Garrick (MIL) → Torren (ECON) → Maelin (REL)`
 
-Ainda.
+### Fragilidades
+A escassez ameaça simultaneamente os agricultores, comerciantes, a autoridade local e a fé da população. Se a pressão aumentar, toda a rede sofrerá.
 
-Nó 1 — Administração
-Magistrada Elara Voss
+### Primeiras Tensões
+1.  **Recursos:** Diminuem sem consenso sobre a causa.
+2.  **Desaparecimentos:** Persistem sem relação aparente.
+3.  **Sonhos:** Espalham-se como boatos discretos.
+4.  **A Mina:** Ruína abandonada que desperta curiosidade e temor.
 
-Função:
+## Estado Atual
+A comunidade está funcional, mas sua estabilidade depende de respostas inexistentes. O sistema está entrando em fase de **compressão dramática**.
 
-Administrar disputas locais.
-
-Responsável por:
-
-impostos
-conflitos civis
-distribuição de recursos
-
-Desejo Aparente:
-
-Manter a estabilidade.
-
-Medo Aparente:
-
-Perder o controle da situação.
-
-Potenciais Não Colapsados:
-
-sabe mais do que aparenta
-sabe menos do que aparenta
-está sendo manipulada
-está manipulando alguém
-Nó 2 — Segurança
-Capitão Garrick Thorn
-
-Comandante da pequena guarnição local.
-
-Responsável por:
-
-estradas
-patrulhas
-proteção das aldeias
-
-Desejo Aparente:
-
-Garantir a segurança da região.
-
-Medo Aparente:
-
-Uma ameaça que não compreende.
-
-Potenciais Não Colapsados:
-
-competente
-incompetente
-honrado
-corruptível
-desesperado
-Nó 3 — Espiritualidade
-Irmã Maelin
-
-Líder religiosa local.
-
-Responsável por:
-
-funerais
-bênçãos
-festivais
-
-Desejo Aparente:
-
-Preservar a fé da população.
-
-Medo Aparente:
-
-Que as pessoas percam a esperança.
-
-Potenciais Não Colapsados:
-
-possui conhecimento oculto
-desconhece a verdade
-recebeu visões
-interpreta sinais incorretamente
-Nó 4 — Economia
-Torren Hale
-
-Maior proprietário rural da região.
-
-Responsável por:
-
-armazenagem de grãos
-comércio regional
-
-Desejo Aparente:
-
-Proteger suas propriedades.
-
-Medo Aparente:
-
-Colapso econômico.
-
-Potenciais Não Colapsados:
-
-oportunista
-altruísta
-pragmático
-conspirador
-Nó 5 — Conhecimento
-O Eremita da Colina Negra
-
-Pouco visto.
-
-Vive isolado.
-
-A população possui opiniões contraditórias sobre ele.
-
-Potenciais Não Colapsados:
-
-sábio
-louco
-profeta
-fugitivo
-irrelevante
-
-Nenhum desses estados é verdadeiro ainda.
-
-Dependências
-
-A população depende de:
-
-Elara
-↓
-Garrick
-↓
-Torren
-↓
-Maelin
-
-Todos dependem da estabilidade do vale.
-
-Fragilidades
-
-A escassez ameaça:
-
-agricultores
-comerciantes
-autoridade local
-fé da população
-
-Se a escassez aumentar, toda a rede sofrerá pressão.
-
-Primeiras Tensões
-
-Tensão 1
-
-Recursos diminuem.
-
-Ninguém concorda sobre a causa.
-
-Tensão 2
-
-Os desaparecimentos continuam.
-
-Ninguém sabe se estão relacionados.
-
-Tensão 3
-
-Os sonhos se espalham.
-
-A população começa a comentar discretamente.
-
-Tensão 4
-
-A mina abandonada desperta curiosidade.
-
-Poucos desejam investigá-la.
-
-Estado Atual
-
-A comunidade ainda está funcional.
-
-Mas sua estabilidade depende de respostas que ninguém possui.
-
-O sistema está entrando em fase de compressão dramática.
-
-O próximo passo, ainda sem fazer escolhas, seria criar algo que chamo de Matriz de Relacionamentos Potenciais.
-
-Não "quem trai quem".
-
-Mas:
-
-Quem poderia trair quem?
-Quem poderia amar quem?
-Quem poderia depender de quem?
-Quem poderia entrar em conflito com quem?
-
-Porque, seguindo McKee, a verdadeira história não está na mina, nos sonhos ou nas ruínas.
-
-Está no que acontece com as pessoas quando essas pressões aumentam.
-
-É nesse momento que a campanha deixa de ser um cenário e começa a se tornar um organismo. O mistério ainda não existe de fato; existe apenas o terreno fértil onde ele poderá nascer.
+O próximo passo é criar a **Matriz de Relacionamentos Potenciais**. Seguindo McKee, a história não está na mina ou nos sonhos, mas no que acontece com as pessoas quando a pressão aumenta. O mistério ainda não existe; existe apenas o terreno fértil.
