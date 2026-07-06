@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "f272f3f2e8133e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d50d7532b37544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lugares/Vale de Dunhollow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vale de Dunhollow"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +203,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8b520b86e6511b15",
+  "active": "28d50d7532b37544",
   "lastOpenFiles": [
-    "lugares/Vale de Dunhollow.md",
-    "base/Escala das estruturas estruturantes.md",
-    "lugares/Fortificacao de Vigia Baixa.md",
+    "npcs/O Eremita da Colina Negra.md",
+    "npcs/Torren Hale.md",
+    "npcs/Irmã Maelin.md",
+    "npcs/Capitão Garrick Thorn.md",
+    "npcs/Magistrada Elara Voss.md",
     "lugares/Ruinas do Marco Antigo.md",
     "lugares/Mina da Colina Negra.md",
+    "lugares/Fortificacao de Vigia Baixa.md",
+    "lugares/Vale de Dunhollow.md",
+    "base/Escala das estruturas estruturantes.md",
     "npcs",
     "npc",
     "base/Matriz social de dunhollow.md",
